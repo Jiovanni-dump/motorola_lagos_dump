@@ -1,0 +1,26 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.system_ext.brand=motorola
+ro.product.system_ext.device=lagos
+ro.product.system_ext.manufacturer=motorola
+ro.product.system_ext.model=moto g06
+ro.product.system_ext.name=lagos_g
+ro.vendor.radio.imei.sv=
+ro.system_ext.build.date=Thu Oct 30 22:13:36 EDT 2025
+ro.system_ext.build.date.utc=1761876816
+ro.system_ext.build.fingerprint=motorola/lagos_g/lagos:15/VVOB35.78-71-9/ecbb89:user/release-keys
+ro.system_ext.build.id=VVOB35.78-71-9
+ro.system_ext.build.tags=release-keys
+ro.system_ext.build.type=user
+ro.system_ext.build.version.incremental=ecbb89
+ro.system_ext.build.version.release=15
+ro.system_ext.build.version.release_or_codename=15
+ro.system_ext.build.version.sdk=35
+####################################
+# from variable PRODUCT_SYSTEM_EXT_PROPERTIES
+####################################
+ro.config.isolated_compilation_enabled=true
+# end of file
+
