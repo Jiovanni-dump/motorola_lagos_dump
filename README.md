@@ -1,0 +1,14 @@
+# lagos_g-user 15 VVOB35.78-71-9 ecbb89 release-keys
+- manufacturer: motorola
+- platform: mt6768
+- codename: lagos
+- flavor: lagos_sys-user
+- release: 15
+- id: VVOB35.78-71-9
+- incremental: ecbb89
+- tags: release-keys
+- fingerprint: motorola/lagos_g/lagos:15/VVOB35.78-71-9/ecbb89:user/release-keys
+- is_ab: true
+- brand: motorola
+- branch: lagos_g-user-15-VVOB35.78-71-9-ecbb89-release-keys
+- repo: motorola_lagos_dump
